@@ -12,7 +12,7 @@
     ```shell
     pipenv install
     ```
-4. Configure products to check inside `configuration.yaml` file
+4. Configure products to check inside `configuration.yaml` file based on already included examples
 5. Run the scraper:
     ```shell
     python scrape.py
