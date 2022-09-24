@@ -35,6 +35,8 @@ You can run this script as a cron command to constantly check for product availa
 3. Append the following content
    ```text
    */10 * * * *    python    /absolute/path/to/scraper.py
+   
    ```
+   **Make sure to include empty line at the end of the file!**\
    _You can replace `*/10 * * * *` with different cron rule, check https://crontab.guru/_
 4. Save the file
