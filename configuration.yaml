@@ -1,0 +1,8 @@
+products:
+    - product_page_url: https://www.czc.cz/palit-geforce-rtx-4090-gamerock-24gb-gddr6x/356700/produkt
+      text_to_check: Produkt není určen k prodeji
+      should_contain_text: false
+
+    - product_page_url: https://www.czc.cz/gigabyte-geforce-rtx-3060-eagle-12g-rev-2-0-lhr-12gb-gddr6/327957/produkt
+      text_to_check: Skladem
+      should_contain_text: true
