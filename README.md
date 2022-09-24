@@ -1,4 +1,4 @@
-# How to run
+# How to run the availability checker
 
 1. Install `python`
     ```shell
