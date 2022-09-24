@@ -18,7 +18,7 @@ Check whether or not the URL contains certain text. For example, we can check wh
     ```shell
     pipenv install
     ```
-5. Configure products to check inside configuration.yaml file based on already included examples
+5. Configure products to check inside [configuration.yaml](https://github.com/david-pivonka/product-availability-scraper/blob/main/configuration.yaml) file based on already included examples
 6. Run the scraper:
     ```shell
     python scrape.py
